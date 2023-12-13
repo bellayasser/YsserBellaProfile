@@ -8,7 +8,6 @@ I've been learning to code for a year, after switching careers. I started with J
 
 * 🌍  I'm based in Seattle, WA, USA
 * ✉️  You can contact me at [yasushinatsuki@gmail.com](mailto:yasushinatsuki@gmail.com)
-* 🧠  I'm learning NodeJs
 
 ### Skills
 
