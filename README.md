@@ -7,7 +7,7 @@ Backend Developer
 I've been learning to code for a year, after switching careers. I started with JavaScript, but have really found a passion for backend development.
 
 * 🌍  I'm based in Seattle, WA, USA
-* ✉️  You can contact me at [yasushinatsuki@gmail.com](mailto:yasushinatsuki@gmail.com)
+* ✉️  You can contact me at (https://discord.com/users/1086502331966836818)
 
 ### Skills
 
