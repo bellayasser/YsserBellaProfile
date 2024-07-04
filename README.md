@@ -24,3 +24,4 @@ I've been learning cybersecurity for a year, after switching careers. I started 
 </picture> 
 </a> 
 </p>
+
