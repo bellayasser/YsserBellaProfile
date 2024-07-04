@@ -6,7 +6,7 @@ Cybersecurity Analyst
 
 I've been learning cybersecurity for a year, after switching careers. I started with network security, but have really found a passion for penetration testing.
 
-* 🌍  I'm based in Morocco
+* 🌍  I'm based in Europe
 * ✉️  You can contact me at (https://discord.com/users/1086502331966836818)
 
 ### Skills
